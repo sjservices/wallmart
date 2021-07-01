@@ -1,1 +1,3 @@
-contains tring functions
+iam updated from development branch 
+hai 
+contains string functions
