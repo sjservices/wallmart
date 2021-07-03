@@ -1,3 +1,3 @@
-i am updated 2nd time
+i am updated for git pull
 hai hello all 
 this file contain deployment content it is very important
